@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 style="color:pink">Hi there 👋 , I'm Elena Marín.</h1>
 
-<!--
-**elmafo99/elmafo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student that just started her journey in Big Data 🚀  
+I'll use this space to practice and share my projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm learning right now
+- Programming fundamentals  
+- Python (basic exercises and small projects)  
+- Git and GitHub  
+
+---
+
+### 📫 How to reach me
+- Email: **elmafo@edem.es**  
+- LinkedIn: [Elena Marín Forés](https://linkedin.com/in/elenamarin)  
