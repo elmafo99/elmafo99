@@ -18,4 +18,4 @@ I'll use this space to practice and share my projects
 
 ### 📫 How to reach me
 - Email: **elmafo@edem.es**  
-- LinkedIn: [Elena Marín Forés](https://linkedin.com/in/elenamarin)  
+- LinkedIn: [Elena Marín Forés](https://linkedin.com/in/elenamarinfores)  
