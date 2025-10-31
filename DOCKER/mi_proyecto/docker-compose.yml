@@ -1,13 +1,13 @@
-services:
+  services:
     db:
       image: postgres:17-alpine
-    env_file:
+      env_file:
         - .env
-    volumes:
-        - postgresDB:/Users/elena/Documents/GitHub/elmafo99
-    ports:
+      volumes:
+        - postgresDB:/var/lib/postgresql/data
+      ports:
         - "5433:5432"
-    restart: unless-stopped
+      restart: unless-stopped
 
-volumes:
-        postgresDB:
+  volumes:
+      postgresDB:
