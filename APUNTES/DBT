@@ -1,0 +1,21 @@
+# Entrar en la carpeta del proyecto
+cd ~/Desktop/edem__dbt
+
+# Activar el entorno virtual
+source .venv/bin/activate
+
+# Verificar que todo funciona
+dbt --version
+python3 -c "import duckdb; print(duckdb.__version__)"
+uv --version
+
+# Trabajar con DBT/DuckDB normalmente
+# (Ejemplo DuckDB en Python)
+python3
+>>> import duckdb
+>>> con = duckdb.connect(':memory:')
+>>> con.execute("SELECT 42").fetchall()
+>>> exit()
+
+# Salir del entorno cuando termines
+deactivate
