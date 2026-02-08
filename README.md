@@ -13,7 +13,7 @@ I'll use this space to practice and share my projects
 * **Data Engineering:** Building pipelines with DBT, PySpark, and API Management.
 * **Infrastructure & Tools:** Mastering Linux, Docker, Git, and SQL.
 * **Data Visualization:** Crafting dashboards in Tableau, Grafana, and Plotly.
-* **Cloud:** Exploring Cloud Computing fundamentals
+* **Cloud:** Exploring Cloud Computing fundamentals.
 
 ---
 
